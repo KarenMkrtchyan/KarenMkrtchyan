@@ -1,6 +1,3 @@
-![alt text](https://media.istockphoto.com/id/856585242/photo/view-over-the-city-of-yerevan-capital-of-armenia-with-the-two-peaks-of-the-mount-ararat-in-the.jpg?s=612x612&w=0&k=20&c=4mt4Gw7gTB_-nDVt30JlCei8YKNcmyfT5dqKmvoYpyE=)
-
-
 hi i am ka’ren ✌️
 
 1 serving of Computer Engineering and Science @ USC, with a side of Cybersecurity 
