@@ -15,8 +15,8 @@ Currently working on
 
 In the past worked on
 
-- IoT telemetry for [RVDT Team](https://www.uscrvdt.com/)
-- Custom compression/decompression protocol for [RPL](https://www.uscrpl.com/)
+- IoT telemetry for [RVDT Team](https://www.uscrvdt.com/) [Repo](https://github.com/KarenMkrtchyan/IoT_Telemetry)
+- Custom compression/decompression protocol for [RPL](https://www.uscrpl.com/) [Repo](https://github.com/KarenMkrtchyan/tinytransfer)
 - Engineering lead for [FRC team 696](https://www.instagram.com/reel/CuqcfmYx5_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - SWE intern at Fermilab ([pub](https://inspirehep.net/literature/2824641)), Bionaut, and Michelson Institute in Cancer ([guiding paper](https://www.nature.com/articles/s41598-025-20514-8#author-information))
 
