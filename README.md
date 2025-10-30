@@ -20,8 +20,8 @@ In the past worked on
 - Engineering lead for [FRC team 696](https://www.instagram.com/reel/CuqcfmYx5_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - SWE intern at Fermilab ([pub](https://inspirehep.net/literature/2824641)), Bionaut, and Michelson Institute in Cancer ([guiding paper](https://www.nature.com/articles/s41598-025-20514-8#author-information))
 
-  Open Source commits
-  - https://github.com/SBNSoftware/icaruscode/pull/752
-  - https://github.com/CSI-Cancer/Segmentation/pull/1
+Open Source commits
+- https://github.com/SBNSoftware/icaruscode/pull/752
+- https://github.com/CSI-Cancer/Segmentation/pull/1
 
 Hungry to connect on [LinkedIn](https://www.linkedin.com/in/karenmkr), or email at kmkrtchy [at] usc [dot] edu
