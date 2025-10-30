@@ -1,6 +1,6 @@
 hi i am ka’ren ✌️
 
-1 serving of Computer Engineering and Science @ USC, with a side of Cybersecurity 
+1 serving of Computer Engineering and Science @ USC, with a side of Cybersecurity. 
 Cooking at high heat for 2 more years (May 27 graduation) 
 
 I love building things that blend hardware and software that make people’s lives better.
